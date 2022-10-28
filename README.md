@@ -1,2 +1,2 @@
-# product-preview-card
-Very simple web component
+# Product preview card
+Simple web component using HTML and CSS (OOCSS + BEM).
